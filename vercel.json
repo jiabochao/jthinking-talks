@@ -1,5 +1,6 @@
 {
   "rewrites": [
+    { "source": "/2024/harmonyos-next-start/*", "destination": "/2024/harmonyos-next-start/index.html" },
     { "source": "/(.*)", "destination": "/index.html" }
   ],
   "buildCommand": "npm run build",
