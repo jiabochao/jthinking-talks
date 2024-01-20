@@ -1,0 +1,20 @@
+{
+  "name": "jthinking-talks",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "rimraf dist && slidev build && pnpm -r run build",
+    "dev": "slidev --open",
+    "export": "slidev export"
+  },
+  "dependencies": {
+    "@slidev/cli": "^0.46.2",
+    "@slidev/theme-default": "latest",
+    "@slidev/theme-seriph": "latest"
+  },
+  "devDependencies": {
+    "@types/node": "^20.11.5",
+    "rimraf": "^5.0.5",
+    "typescript": "^5.3.3"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "name": "2024-01-20",
+  "type": "module",
+  "private": true,
+  "scripts": {
+    "build": "slidev build --base /2024/harmonyos-next-start/ --out ../dist/2024/harmonyos-next-start",
+    "dev": "slidev --open",
+    "export": "slidev export --per-slide --output ./2024-01-20-harmonyos-next-start.pdf"
+  },
+  "dependencies": {
+    "@slidev/cli": "^0.46.2",
+    "@slidev/theme-default": "latest",
+    "@slidev/theme-seriph": "latest"
+  }
+}
