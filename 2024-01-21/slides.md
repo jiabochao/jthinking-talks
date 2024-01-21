@@ -16,7 +16,7 @@ title: Welcome to Slidev
 mdc: true
 ---
 
-# 鸿蒙原生应用入门
+# 微信名片二维码生成工具
 
 从零开始实战编程系列
 

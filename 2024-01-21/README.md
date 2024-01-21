@@ -9,18 +9,3 @@ To start the slide show:
 Edit the [slides.md](./slides.md) to see the changes.
 
 Learn more about Slidev on [documentations](https://sli.dev/).
-
-## 新增演示
-
-```
-pnpm create slidev
-```
-
-- 输入名称
-
-```
-cd <名称>
-```
-
-编辑`slides.md`
-
